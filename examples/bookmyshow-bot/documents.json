@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bms-cancel-01",
+    "title": "BookMyShow Ticket Cancellation & Refund Policy",
+    "category": "cancellation",
+    "text": "BookMyShow allows cancellation for participating cinemas up to 2 hours before the movie showtime. If eligible, users receive a 75% refund of base ticket cost, while convenience fees and internet handling charges are non-refundable. Refunds can be credited to BMS Cash wallet instantly or to the original payment method within 5-7 business days."
+  },
+  {
+    "id": "bms-mticket-02",
+    "title": "M-Ticket and Cinema Entry Guidelines",
+    "category": "entry",
+    "text": "M-Tickets (Mobile Tickets) are 100% paperless digital passes. You do not need a physical printout. Simply present the QR code on your BookMyShow app or SMS confirmation at the cinema turnstile. For box office collection, present the booking ID at the cinema kiosk at least 15 minutes before the show."
+  },
+  {
+    "id": "bms-fnb-03",
+    "title": "Food & Beverage (F&B) Pre-ordering and Outside Food Rules",
+    "category": "fnb",
+    "text": "Outside food and beverages are strictly prohibited inside cinema auditoriums as per multiplex regulations. Patrons can pre-order snacks like caramel popcorn, nachos, and soft drinks through the BookMyShow app at discounted combo rates. In-seat delivery is available at select Gold Class and INSIGNIA lounges."
+  },
+  {
+    "id": "bms-imax-04",
+    "title": "IMAX with Laser and 4DX Theater Specifications",
+    "category": "experience",
+    "text": "IMAX with Laser features 4K laser projection and next-generation 12-channel sound with ceiling and side speakers. Reusable 3D glasses are charged separately at Rs. 40-50 per pair at the counter. 4DX theaters feature synchronized motion seats, environmental effects like wind, fog, lightning, water, and scent."
+  },
+  {
+    "id": "bms-fees-05",
+    "title": "Convenience Fees and Internet Handling Charges Breakdown",
+    "category": "billing",
+    "text": "Convenience fee is levied per ticket for providing online ticketing technology, payment gateway security, and customer support. It comprises an internet handling fee plus applicable government taxes (9% CGST + 9% SGST). Convenience fees are strictly non-refundable even upon ticket cancellation."
+  },
+  {
+    "id": "bms-offers-06",
+    "title": "Credit Card Discounts & BookMyShow SuperStars Loyalty Program",
+    "category": "offers",
+    "text": "BookMyShow partners with ICICI Bank, HDFC Bank, Axis Bank, and SBI Card for Buy-One-Get-One (BOGO) ticket offers. BMS SuperStars members earn loyalty coins on every transaction, enjoy free ticket cancellation protection up to 4 hours before showtime, and receive priority customer support."
+  },
+  {
+    "id": "bms-movie-07",
+    "title": "Oppenheimer - PVR Forum Koramangala Bengaluru",
+    "category": "showtimes",
+    "text": "Oppenheimer (English, 2D & IMAX 3D, Rated A, Runtime 3h 0min) directed by Christopher Nolan is playing at PVR Forum Koramangala, Bengaluru. Showtimes: 10:15 AM (IMAX), 01:45 PM (IMAX), 05:30 PM (2D Dolby Atmos), and 09:15 PM (IMAX). Ticket prices range from Rs. 350 to Rs. 950."
+  },
+  {
+    "id": "bms-movie-08",
+    "title": "Kalki 2898 AD - INOX Garuda Mall Bengaluru",
+    "category": "showtimes",
+    "text": "Kalki 2898 AD (Telugu/Hindi, 3D, Rated U/A, Runtime 3h 1min) starring Prabhas, Amitabh Bachchan, and Kamal Haasan is playing at INOX Garuda Mall, Magrath Road. Showtimes: 11:00 AM (Telugu 3D), 02:30 PM (Hindi 3D), 06:15 PM (Telugu 3D INSIGNIA), 10:00 PM (Telugu 3D). Ticket prices range from Rs. 280 to Rs. 800."
+  }
+]

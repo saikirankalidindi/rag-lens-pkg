@@ -1,0 +1,8 @@
+[
+  {"id":"solar","title":"Solar energy","text":"Solar panels convert sunlight into electricity. Solar energy is renewable and produces no direct emissions during operation."},
+  {"id":"wind","title":"Wind energy","text":"Wind turbines convert the kinetic energy of moving air into electricity. Wind and solar are renewable energy sources."},
+  {"id":"water","title":"The water cycle","text":"The water cycle includes evaporation, condensation and precipitation. Sunlight warms water, causing evaporation."},
+  {"id":"plants","title":"Photosynthesis","text":"Plants use sunlight, water and carbon dioxide during photosynthesis to produce sugars and release oxygen."},
+  {"id":"ocean","title":"Ocean tides","text":"Ocean tides are driven primarily by the gravitational pull of the Moon and the Sun. Coastal locations experience rising and falling sea levels."},
+  {"id":"recycling","title":"Recycling","text":"Recycling recovers materials such as paper, glass and metals. Reusing these materials can reduce waste and demand for raw resources."}
+]

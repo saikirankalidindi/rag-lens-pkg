@@ -1,0 +1,73 @@
+# Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment and Secrets
+.env
+.env*.local
+.env.development
+.env.test
+.env.production
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.pyright/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+
+# Node & Next.js
+node_modules/
+.next/
+out/
+.pnp
+.pnp.js
+.yarn/install-state.gz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vercel
+*.tsbuildinfo
+test-results/
+playwright-report/
+
+# Databases and Local Storage
+*.sqlite
+*.sqlite3
+*.db
+qdrant_storage/
+**/qdrant_storage/
+
+# IDE & Editors
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -1,0 +1,4 @@
+qdrant-client>=1.16.0
+python-dotenv>=1.0.0
+requests>=2.30.0
+-e ../../packages/sdk-python

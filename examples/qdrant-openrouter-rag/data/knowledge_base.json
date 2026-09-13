@@ -1,0 +1,50 @@
+[
+  {
+    "id": "doc_bms_cancellation_policy",
+    "title": "BookMyShow Ticket Cancellation & Refund Guidelines",
+    "category": "cancellation",
+    "content": "BookMyShow allows users to cancel confirmed movie tickets for partner multiplex chains including PVR, INOX, and Cinepolis up to 2 hours prior to showtime. When a booking is cancelled, users receive a 75% refund of the base ticket price and food items. The convenience fees, internet handling charges, and applicable GST are strictly non-refundable. Users can select between an instant credit to their BMS Cash digital wallet or a refund to the original payment source (credit card, debit card, or UPI), which processes within 5 to 7 business days. Non-participating single-screen theaters do not support cancellation."
+  },
+  {
+    "id": "doc_bms_entry_guidelines",
+    "title": "Cinema Entry Protocol: M-Tickets vs Box Office Collection",
+    "category": "entry",
+    "content": "BookMyShow offers two primary admission formats: M-Ticket and Box Office Pickup. An M-Ticket is an all-digital mobile ticket delivered via SMS, WhatsApp, and the BookMyShow mobile application. Patrons presenting an M-Ticket do not require a physical printout; the QR code is scanned directly at the auditorium turnstile. For cinemas requiring Box Office Collection, patrons must arrive at the theater at least 20 minutes prior to showtime and enter their booking ID or scan the confirmation barcode at the automated self-service kiosks located in the cinema foyer."
+  },
+  {
+    "id": "doc_bms_imax_laser_4dx",
+    "title": "Premium Viewing Formats: IMAX with Laser, 4DX, and ScreenX",
+    "category": "cinema_formats",
+    "content": "IMAX with Laser delivers optical clarity utilizing dual 4K commercial laser projection, a wider color gamut, and custom 12-channel surround sound with ceiling and side overhead audio channels. 3D glasses for IMAX 3D are charged separately at Rs. 40 to Rs. 50 per pair at the concessions counter. 4DX auditoriums integrate motion-synchronized high-torque seating capable of pitch, roll, and heave alongside environmental atmospheric effects including fog, wind, simulated rain, lightning strobes, and scent. ScreenX provides a 270-degree panoramic viewing perspective extending onto the side auditorium walls."
+  },
+  {
+    "id": "doc_bms_fnb_regulations",
+    "title": "Food & Beverage Pre-orders and Outside Snack Rules",
+    "category": "fnb",
+    "content": "Multiplex regulations in India strictly prohibit patrons from bringing outside food, snacks, and commercial beverages into cinema auditoriums, with the exception of infant food and necessary medical dietary supplies. BookMyShow allows customers to pre-book snacks such as cheese nachos, salted and caramel popcorn, and beverages at discounted combo prices during checkout. At premium dining cinemas such as PVR Gold Class, PVR Director's Cut, and INOX INSIGNIA, guests enjoy in-seat butler dining service delivered directly to their recliner seats."
+  },
+  {
+    "id": "doc_bms_convenience_fees",
+    "title": "Convenience Fees and Taxation Structure",
+    "category": "billing",
+    "content": "BookMyShow levies an Internet Handling Fee (commonly known as a Convenience Fee) on all online ticket transactions. This charge covers payment processing security, high-volume reservation infrastructure, and 24/7 customer service. The convenience fee is subject to statutory Goods and Services Tax (GST) at 18% (split as 9% Central GST and 9% State GST). The convenience fee and tax are non-refundable in the event of customer-initiated ticket cancellations."
+  },
+  {
+    "id": "doc_bms_card_offers_loyalty",
+    "title": "Bank Credit Card Offers & BookMyShow SuperStars Loyalty",
+    "category": "offers",
+    "content": "BookMyShow features co-branded promotions with Indian banking partners. Cardholders of ICICI Bank (Sapphiro, Rubyx), HDFC Bank (Infinia, Regalia), Axis Bank (Burgundy, Magnus), and SBI Card Elite can avail Buy-One-Get-One (BOGO) complimentary ticket benefits up to monthly quota limits. The BookMyShow SuperStars loyalty tier rewards frequent moviegoers with 1 loyalty coin per Rs. 100 spent, complimentary cancellation privileges up to 4 hours before showtime, and early access to live concert and event ticketing."
+  },
+  {
+    "id": "doc_bms_oppenheimer_screening",
+    "title": "Oppenheimer - PVR Forum Koramangala Bengaluru Schedule",
+    "category": "movies",
+    "content": "Christopher Nolan's historical drama 'Oppenheimer' (Runtime: 180 minutes, Rated A for adult audiences) is currently screening at PVR Forum Mall, Koramangala, Bengaluru. Daily showtimes are 10:15 AM (IMAX with Laser 2D), 01:45 PM (IMAX with Laser 2D), 05:30 PM (Dolby Atmos 2D), and 09:15 PM (IMAX with Laser 2D). Ticket tariffs range from Rs. 380 for standard recliners to Rs. 920 for center premium IMAX seats."
+  },
+  {
+    "id": "doc_bms_kalki_screening",
+    "title": "Kalki 2898 AD - INOX Garuda Mall Magrath Road Schedule",
+    "category": "movies",
+    "content": "Nag Ashwin's sci-fi epic 'Kalki 2898 AD' starring Prabhas, Amitabh Bachchan, Deepika Padukone, and Kamal Haasan (Runtime: 181 minutes, Rated U/A) is screening at INOX Garuda Mall, Magrath Road, Bengaluru. Daily screenings include 11:00 AM (Telugu 3D), 02:30 PM (Hindi 3D Dolby Atmos), 06:15 PM (Telugu 3D INSIGNIA Luxury Lounge), and 10:00 PM (Telugu 3D). Ticket pricing begins at Rs. 280 for club seats up to Rs. 850 for INSIGNIA dining recliners."
+  }
+]
